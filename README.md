@@ -1,6 +1,4 @@
 # Vegeta Docker
-[![](https://images.microbadger.com/badges/image/peterevans/vegeta.svg)](https://microbadger.com/images/peterevans/vegeta)
-[![CircleCI](https://circleci.com/gh/peter-evans/vegeta-docker/tree/master.svg?style=svg)](https://circleci.com/gh/peter-evans/vegeta-docker/tree/master)
 
 Docker image for the [Vegeta](https://github.com/tsenart/vegeta) HTTP load testing tool.
 
